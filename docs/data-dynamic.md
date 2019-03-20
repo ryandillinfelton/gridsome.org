@@ -15,4 +15,4 @@ We recommend to use the [axios](https://github.com/axios/axios) package to add d
 ## Dynamic content and eCommerce stores
 A good example of using dynamic content with Gridsome is eCommerce stores. While most of the site is static you probably want prices and quantity to be dynamic.
 
-This means you can generate 99% of your eCommerce site at build time and then pull inn dynamic data when users are visiting for example a product page or starts filtering products.
+This means you can generate 99% of your eCommerce site at build time and then pull in dynamic data when users are visiting for example a product page or starts filtering products.
